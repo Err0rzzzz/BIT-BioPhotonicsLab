@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        北京理工大学重庆微电子研究院
         微纳生物光子研究室
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **微纳生物光子研究室** 是北京理工大学重庆微电子研究院下属的实验室，主要聚焦于OCT，光声，共聚焦技术的研发与转化。
   
   - block: collection
     content:
