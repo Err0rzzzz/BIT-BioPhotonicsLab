@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        北京理工大学重庆微电子研究院
+        微纳生物光子研究室
       image:
         filename: welcome.jpg
       text: |
